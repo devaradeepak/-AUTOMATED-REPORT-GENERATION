@@ -14,7 +14,7 @@ DURATION: 4 weeks
 
 MENTOR: NEELA SANTOSH
 
-DESCRIPTION EXPLANATION:
+DESCRIPTION EXPLANATION :
 
  This Python script successfully generates a sales report with the following 
 
@@ -31,7 +31,7 @@ analyze_data(df): Provides summary statistics (mean, max, min) and totals for sa
 generate_sales_chart(df): Creates a plot showing sales and profit trends, which is saved as an image.
 PDFReport: A custom PDF class using FPDF that formats the report and embeds the chart.
 generate_pdf_report(): Combines the analysis and chart to create the final report.
-How to use:
+How to use :
 Prepare a CSV file (data.csv) containing the columns Date, Sales, and Profit.
 Run the script, and it will output the Sales_Report.pdf.
 Potential Improvements:
