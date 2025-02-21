@@ -10,11 +10,11 @@ INTERS ID:  CODHC183
 
 DOMAIN: PYTHON PROGRAMMING
 
-DURATION: 4 weeks  from January 30th, 2025 to MARCH 30th, 2025.  
+DURATION: 4 weeks 
 
 MENTOR: NEELA SANTOSH
 
-DESCRIPTION EXPLANATION;
+DESCRIPTION EXPLANATION:
 
  This Python script successfully generates a sales report with the following 
 
