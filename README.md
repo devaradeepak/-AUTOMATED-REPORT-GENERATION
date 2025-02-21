@@ -2,17 +2,17 @@
 
 
 
-COMPANY; CODETECH IT SOLUTIONS
+COMPANY: CODETECH IT SOLUTIONS
 
-NAME; KAMALESHWARAN.R
+NAME: D.D.V.Deepak 
 
-INTERS ID; CT08PPJ
+INTERS ID:  CODHC183
 
-DOMAIN; PYTHON
+DOMAIN: PYTHON PROGRAMMING
 
-DURATION; 4 weeks  from January 25th, 2025 to February 25th, 2025.  
+DURATION: 4 weeks  from January 30th, 2025 to MARCH 30th, 2025.  
 
-MENTOR; NEELA SANTOSH
+MENTOR: NEELA SANTOSH
 
 DESCRIPTION EXPLANATION;
 
@@ -39,5 +39,4 @@ Additional Charts: You could include more charts or pivot tables to analyze tren
 More Data Analysis: You could add deeper statistical analysis such as correlation, regressions, etc.
 Styling: More customization in PDF layout and design could enhance the look of the report.
 
-OUTPUT;
-        ![Image](https://github.com/user-attachments/assets/b2e93c20-2b75-44ce-a25f-7000f2689dde)
+OUTPUT:
